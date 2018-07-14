@@ -1,0 +1,32 @@
+.intro {
+  background-image: url(../images/background.png);
+  font-weight: bold;
+  text-align: center;
+  font-size: 18px;
+  color: white;
+}
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color:white;
+  }
+#home {
+  color: white;
+}
+
+#newyork {
+  background-image: url(../images/background.png);
+  color: white;
+  font-weight: bold;
+  font-size: 23px;
+  }
+
+* {
+  font-family: helvetica;
+  text-align: center;
+}
+.footer {
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+  }
